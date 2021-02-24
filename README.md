@@ -28,7 +28,7 @@
 </p>
 <hr/>
 
-### Entre em contato comigo pelo <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/">LinkedIn</a>
+### Entre em contato comigo pelo <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/" target="_blank">LinkedIn</a>
 
 ### Vida Longa e próspera 🖖
 <hr/>
