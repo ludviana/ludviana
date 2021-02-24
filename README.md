@@ -12,10 +12,6 @@
 
 <hr/>
 
-### Entre em contato comigo pelo <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/">LinkedIn</a>
-
-<hr/>
-
 ### Competências
 <hr/>
 <p>
@@ -31,3 +27,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Node&color=80b918"/>
   <img src="https://img.shields.io/static/v1?label=&message=React%20JS&color=1e6091"/>
 </p>
+<hr/>
+
+### Entre em contato comigo pelo <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/">LinkedIn</a>
+
