@@ -1,4 +1,4 @@
-## Hi there, Me chamo Lucas Damasceno.👋
+### Hi there, Me chamo Lucas Damasceno.👋
 
 ### Sobre mim
 
@@ -29,4 +29,4 @@
 
 ### Entre em contato comigo pelo <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/">LinkedIn</a>
 
-## Vida Longa e próspera 🖖
+### Vida Longa e próspera 🖖
