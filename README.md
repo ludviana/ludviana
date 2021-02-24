@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=React%20JS&color=1e6091"/>
 </p>
 <hr/>
-
+[Hugo Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/){:target="_blank"}
 ### Entre em contato comigo pelo <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/" target="_blank" >LinkedIn</a>
 
 ### Vida Longa e próspera 🖖
