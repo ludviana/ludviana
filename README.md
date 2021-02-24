@@ -11,4 +11,4 @@
 
 ### Competências
 
-<p>https://img.shields.io/static/v1?label=&message=HTML5&color=orange</p>
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange"/>
