@@ -10,7 +10,7 @@
 
 
 ### Competências
-
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow"/>
@@ -22,3 +22,4 @@
 <img src="https://img.shields.io/static/v1?label=&message=PHP&color=7251b5"/>
 <img src="https://img.shields.io/static/v1?label=&message=Node&color=80b918"/>
 <img src="https://img.shields.io/static/v1?label=&message=React%20JS&color=1e6091"/>
+</p>
