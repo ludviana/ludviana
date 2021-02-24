@@ -1,5 +1,4 @@
 ## Hi there, Me chamo Lucas Damasceno.👋
-<hr/>
 
 ### Sobre mim
 
