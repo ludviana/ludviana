@@ -7,7 +7,7 @@
 - Desenvolvedor Fullstack Formado pela RecodePro em 2021.
 - Apaixonado por tecnologia.
 - Minha linguagem preferida é o JavaScript.
-- Gosto de series/filmes, brincar meu cachorro, ouvir música.
+  - Gosto de Mr.Robot e Rick and Morty, brincar meu cachorro.
 
 <hr/>
 
