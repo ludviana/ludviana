@@ -7,3 +7,8 @@
 
 ### Entre em contato comigo 
 <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/">LinkedIn</a>
+
+
+### Competências
+
+<p>https://img.shields.io/static/v1?label=&message=HTML5&color=orange</p>
