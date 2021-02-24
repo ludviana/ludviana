@@ -10,7 +10,11 @@
 - Minha linguagem preferida é o JavaScript.
 - Gosto de series/filmes, brincar meu cachorro, ouvir música.
 
+<hr/>
+
 ### Entre em contato comigo pelo <a href="https://www.linkedin.com/in/lucas-damasceno-a162271b8/">LinkedIn</a>
+
+<hr/>
 
 ### Competências
 <hr/>
