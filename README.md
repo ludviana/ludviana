@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Me chamo Lucas Damasceno, sou um apaixonado por tecnologia.
 <hr/>
+
 - Moro no Brasil, São Paulo.
 - Sou um desenvolvedor Fullstack Formado pela RecodePro em 2021.
 - Minha linguagem preferida é o JavaScript.
